@@ -11,7 +11,7 @@
 
 @font-face {
   font-family: 'DIN Next';
-  src: url('https://f9.limitedrun.com/fonts/503/DINNextLTPro-Medium.woff2') format('woff2');
+  src: url(DINNextLTPro-Medium.woff2);
   font-weight: 500;
   font-style: normal;
 }
