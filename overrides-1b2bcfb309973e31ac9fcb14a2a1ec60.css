@@ -131,6 +131,11 @@ animation: fadeIn ease 3s;
 #timer span {
   color: white;
   font-size: calc(0.5rem + 15vw);
+  font-family: "DIN next";
+}
+
+#mori div {
+	font-size: calc(0.5rem + 3vw)
 }
 
 .available-on {
