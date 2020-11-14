@@ -1,2 +1,2 @@
-# https://jericjan.github.io/unus-annus-countdown/.
+# https://jericjan.github.io/unus-annus-countdown/
 it's almost ending...
