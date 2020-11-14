@@ -135,8 +135,8 @@ animation: fadeIn ease 3s;
 }
 
 #mori div {
- font-size: calc(0.5rem + 3vw);
- font-family: 'DIN Next';
+  font-size: calc(0.5rem + 3vw);
+  font-family: 'DIN Next';
 }
 
 .available-on {
